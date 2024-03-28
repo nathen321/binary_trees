@@ -3,6 +3,9 @@
 /**
  * binary_tree_node - creat a node
  *
+ * @parent: parent node
+ * @value: vaue atributed to the node
+ *
  * Return: Always binary_tree_t
  */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value)
