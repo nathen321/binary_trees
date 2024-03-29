@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_is_leaf - creat a node
+ * binary_tree_is_root - creat a node
  *
  * @node: node to check
  *
